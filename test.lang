@@ -1,0 +1,4 @@
+var age = 21;
+var name = Aaliyah;
+print age;
+print name;
